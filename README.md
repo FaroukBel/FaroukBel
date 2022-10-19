@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BEL KHYATE FAROUK</h1>
-<h3 align="center">A passionate about code 👩‍💻</h3>
+<h3 align="center">Developer 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faroukbel&label=Profile%20views&color=0e75b6&style=flat" alt="faroukbel" /> </p>
 
